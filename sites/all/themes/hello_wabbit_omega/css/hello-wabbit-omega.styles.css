@@ -1,0 +1,38 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200-x64\/lib\/ruby\/gems\/2\.0\.0\/gems\/toolkit-2\.6\.0\/stylesheets\/toolkit\/_kickstart\.scss}line{font-family:\000031}}
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200-x64\/lib\/ruby\/gems\/2\.0\.0\/gems\/toolkit-2\.6\.0\/stylesheets\/toolkit\/_kickstart\.scss}line{font-family:\0000311}}
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/*
+    Document   : _mixins
+    Created on : 27-aug-2014, 8:49:29
+    Author     : cyber08
+    Description:
+    Purpose of the stylesheet follows.
+*/
+/*
+    TODO customize this sample style
+    Syntax recommendation http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/abstractions\/_mixins\.scss}line{font-family:\0000314}}
+root {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/base\/_media\.scss}line{font-family:\000031}}
+img, media {
+  max-width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/hello-wabbit-omega\.styles\.scss}line{font-family:\0000324}}
+body {
+  background: #685474;
+}

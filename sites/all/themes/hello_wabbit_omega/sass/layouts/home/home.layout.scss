@@ -1,0 +1,32 @@
+@import "compass";
+@import "breakpoint";
+@import "singularitygs";
+
+//Globbing from within sub-folders only works with relative paths.
+@import "../../variables/**/*";
+
+.l-page {
+    margin: 0 auto;
+    @include breakpoint($tab, true) {
+        width: $tab;
+    }
+    @include breakpoint($desk, true) {
+        width: $desk;
+    }
+}
+
+.l-main {
+    @include clearfix;
+}
+
+@include breakpoint($tab, true) {   
+    .l-content {
+        @include grid-span(12, 1);
+    }    
+}
+
+@include breakpoint($desk, true) { 
+    .l-content {
+        @include grid-span(12, 1);
+    }
+}

@@ -1,0 +1,30 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/home\/home\.layout\.scss}line{font-family:\000038}}
+.l-page {
+  margin: 0 auto;
+  width: 44em;
+  width: 70em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/home\/home\.layout\.scss}line{font-family:\0000318}}
+.l-main {
+  overflow: hidden;
+  *zoom: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/home\/home\.layout\.scss}line{font-family:\0000323}}
+.l-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/home\/home\.layout\.scss}line{font-family:\0000329}}
+.l-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}

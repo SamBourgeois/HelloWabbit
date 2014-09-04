@@ -1,0 +1,52 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\000038}}
+.l-page {
+  margin: 0 auto;
+  width: 44em;
+  width: 70em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200-x64\/lib\/ruby\/gems\/2\.0\.0\/gems\/breakpoint-2\.5\.0\/stylesheets\/_breakpoint\.scss}line{font-family:\0000392}}
+.touch .l-page {
+  background: blue;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\0000321}}
+.l-main {
+  overflow: hidden;
+  *zoom: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\0000326}}
+.l-region--sidebar-first {
+  width: 23.72881%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\0000330}}
+.l-content {
+  width: 74.57627%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\0000336}}
+.l-region--sidebar-first {
+  width: 23.72881%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/drupal3\/sites\/all\/themes\/hello_wabbit_omega\/sass\/layouts\/sidebar\/sidebar\.layout\.scss}line{font-family:\0000340}}
+.l-content {
+  width: 74.57627%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
